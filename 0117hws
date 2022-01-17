@@ -1,0 +1,11 @@
+a= str(1)
+b= int('30')
+c= int(5)
+d= bool('50')
+
+
+print(a)
+print(b)
+print(c)
+print(d)
+
